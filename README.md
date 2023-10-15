@@ -3,6 +3,6 @@ Sistema simples de gerenciamento de fila de espera para um consultório médico,
 
 # Destaque:
 
--Adição e atendimento de pacientes.
--Encerramento seguro do sistema.
+-Adição e atendimento de pacientes.<br>
+-Encerramento seguro do sistema.<br>
 -Tratamento de exceções para entradas inválidas.
